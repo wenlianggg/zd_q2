@@ -1,0 +1,1 @@
+java -cp "output;references;references/config/*;references/entity/*;references/log4j2/*;src" q2.VendingMachineTest
