@@ -3,7 +3,8 @@
 
 //##############################################################
 
-package vending.model;
+package q2.vending.model;
+
 public abstract class Product {
     private String name;
     private int price;

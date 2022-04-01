@@ -2,7 +2,7 @@
 // Email ID:
 
 //##############################################################
-package vending.model;
+package q2.vending.model;
 
 public class Stock {
     private Product product;

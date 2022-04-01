@@ -2,7 +2,9 @@
 // Email ID:
 
 //##############################################################
-import vending.VendingMachine;
+
+import q2.vending.VendingMachine;
+
 public class VendingMachineTest {
     public static void testReturnChange() {
 
