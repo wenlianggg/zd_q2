@@ -1,0 +1,1 @@
+javac -d output -cp config/*;entity/*;log4j2/*;q2/vending/exception/*;src src/VendingMachineTest.java
