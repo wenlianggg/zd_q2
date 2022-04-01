@@ -3,6 +3,8 @@
 
 //##############################################################
 
+package q2;
+
 import q2.vending.VendingMachine;
 import labtest.vending.money.Coin;
 import java.util.ArrayList;

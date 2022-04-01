@@ -1,1 +1,1 @@
-javac -d output -cp "references;references/config/*;references/entity/*;references/log4j2/*;src" src/VendingMachineTest.java
+javac -d output -cp "references;references/config/*;references/entity/*;references/log4j2/*;src" src/q2/VendingMachineTest.java
