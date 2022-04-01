@@ -6,6 +6,7 @@
 package q2.vending;
 
 import q2.vending.model.Stock;
+import q2.vending.model.Product;
 import q2.vending.exception.*;
 
 import labtest.vending.money.*;
